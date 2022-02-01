@@ -1,0 +1,10 @@
+C:\Users\User072020\source\repos\Japp\Japp\bin\Debug\Japp.exe.config
+C:\Users\User072020\source\repos\Japp\Japp\bin\Debug\Japp.exe
+C:\Users\User072020\source\repos\Japp\Japp\bin\Debug\Japp.pdb
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.csprojAssemblyReference.cache
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.Main_Interface.resources
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.Properties.Resources.resources
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.csproj.GenerateResource.cache
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.csproj.CoreCompileInputs.cache
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.exe
+C:\Users\User072020\source\repos\Japp\Japp\obj\Debug\Japp.pdb
